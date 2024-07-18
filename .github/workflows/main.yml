@@ -1,0 +1,7 @@
+sudo tee /etc/apt/sources.list.d/ngrok.list \
+	&& sudo apt update \sudo tee /etc/apt/sources.list.d/ngrok.list \
+	&& sudo apt update \sudo tee /etc/apt/sources.list.d/ngrok.list \
+	&& sudo apt update \sudo tee /etc/apt/sources.list.d/ngrok.list \
+	&& sudo apt update \sudo tee /etc/apt/sources.list.d/ngrok.list \
+	&& sudo apt update \sudo tee /etc/apt/sources.list.d/ngrok.list \
+	&& sudo apt update \
